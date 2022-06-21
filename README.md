@@ -1,5 +1,5 @@
 # Python_demos
-Some projects implemented in python
+Some projects implemented in Python.
 
 
 ## A_star
